@@ -1,0 +1,412 @@
+{
+  "paper_id": "P6_SCI_PAPER_06",
+  "level": "Primary 6",
+  "subject": "Integrated Science",
+  "syllabus": "Ugandan Primary Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_text": "What is a force?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A force is a push or a pull.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Push", "marks": 1 },
+          { "point": "Pull", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_text": "Name two effects of a force.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A force can change the shape of an object or move it.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Changes shape", "marks": 1 },
+          { "point": "Causes movement", "marks": 1 }
+        ],
+        "grading_rules": ["Accept stopping or changing direction"]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_text": "Name one type of force.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Gravity.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct force type", "marks": 1 }
+        ],
+        "grading_rules": ["Accept friction, magnetic force"]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_text": "What is gravity?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Gravity is the force that pulls objects towards the earth.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Pulling force", "marks": 1 },
+          { "point": "Towards the earth", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_text": "Name one effect of gravity.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "It causes objects to fall to the ground.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Objects fall", "marks": 1 }
+        ],
+        "grading_rules": ["Accept keeps us on earth"]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question_text": "What is friction?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Friction is a force that opposes motion between two surfaces in contact.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Opposes motion", "marks": 1 },
+          { "point": "Between surfaces in contact", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question_text": "State one advantage of friction.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "It helps us to walk without slipping.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Prevents slipping", "marks": 1 }
+        ],
+        "grading_rules": ["Accept braking"]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question_text": "State one disadvantage of friction.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "It causes wear and tear of machines.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Wear and tear", "marks": 1 }
+        ],
+        "grading_rules": ["Accept heat production"]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question_text": "What is a machine?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A machine is a device that makes work easier.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Device", "marks": 1 },
+          { "point": "Makes work easier", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question_text": "Name one simple machine.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Lever.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct simple machine", "marks": 1 }
+        ],
+        "grading_rules": ["Accept pulley, wheel and axle, inclined plane"]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question_text": "What is a lever?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A lever is a rigid bar that turns about a fixed point.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Rigid bar", "marks": 1 },
+          { "point": "Turns about a fixed point", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question_text": "Name the fixed point of a lever.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Fulcrum.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Fulcrum", "marks": 1 }
+        ],
+        "grading_rules": ["Spelling errors allowed"]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question_text": "Name one example of a lever used at home.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Bottle opener.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept scissors"]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question_text": "What is a pulley?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A pulley is a wheel with a rope used to lift loads.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Wheel with rope", "marks": 1 },
+          { "point": "Lifting loads", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question_text": "Name one use of a pulley.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Drawing water from a well.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Lifting loads", "marks": 1 }
+        ],
+        "grading_rules": ["Accept flag hoisting"]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question_text": "What is an inclined plane?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "An inclined plane is a sloping surface used to raise loads.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Sloping surface", "marks": 1 },
+          { "point": "Raises loads", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question_text": "Name one example of an inclined plane.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Ramp.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sloping road"]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question_text": "What is a wheel and axle?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A wheel and axle is a machine where a wheel turns around a central rod.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Wheel", "marks": 1 },
+          { "point": "Turns around axle", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question_text": "Name one example of a wheel and axle.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Bicycle.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept car"]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question_text": "What is safety?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Safety is the state of being protected from danger.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Protection", "marks": 1 },
+          { "point": "From danger", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question_text": "Name one safety rule at school.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Do not run in corridors.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct safety rule", "marks": 1 }
+        ],
+        "grading_rules": ["Accept follow teacher instructions"]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question_text": "Name one safety rule at home.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Do not play with fire.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct home safety rule", "marks": 1 }
+        ],
+        "grading_rules": ["Accept avoid sharp objects"]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question_text": "What is an accident?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "An accident is an unexpected event that causes injury or damage.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Unexpected event", "marks": 1 },
+          { "point": "Causes injury or damage", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question_text": "State one cause of accidents at home.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Carelessness.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct cause", "marks": 1 }
+        ],
+        "grading_rules": ["Accept wet floors"]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question_text": "State one way of preventing accidents.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Following safety rules.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Preventive action", "marks": 1 }
+        ],
+        "grading_rules": ["Accept careful behavior"]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question_text": "What is road safety?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Road safety is the practice of using roads safely to prevent accidents.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Using roads safely", "marks": 1 },
+          { "point": "Prevent accidents", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question_text": "Name one road safety rule for pedestrians.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Cross the road at zebra crossings.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct pedestrian rule", "marks": 1 }
+        ],
+        "grading_rules": ["Accept look both ways"]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question_text": "Name one safety sign found on roads.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Stop sign.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct road sign", "marks": 1 }
+        ],
+        "grading_rules": ["Accept pedestrian crossing"]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question_text": "Why are safety signs important?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Safety signs warn people and prevent accidents.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Warn people", "marks": 1 },
+          { "point": "Prevent accidents", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question_text": "State one role of police in road safety.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Enforcing traffic laws.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Traffic law enforcement", "marks": 1 }
+        ],
+        "grading_rules": ["Accept controlling traffic"]
+      }
+    }
+  ]
+}

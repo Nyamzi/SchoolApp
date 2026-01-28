@@ -1,0 +1,413 @@
+{
+  "paper_id": "P6_SCI_PAPER_01",
+  "level": "Primary 6",
+  "subject": "Integrated Science",
+  "syllabus": "Ugandan Primary Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_text": "What is a living thing?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A living thing is anything that has life and can carry out life processes.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Has life", "marks": 1 },
+          { "point": "Carries out life processes", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning even if wording differs"]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_text": "State two characteristics of living things.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Growth and reproduction.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Growth", "marks": 1 },
+          { "point": "Reproduction", "marks": 1 }
+        ],
+        "grading_rules": ["Any two correct characteristics earn full marks"]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_text": "Name one group of animals.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Mammals.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct animal group", "marks": 1 }
+        ],
+        "grading_rules": ["Accept mammals, birds, reptiles, fish, or amphibians"]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_text": "What is photosynthesis?",
+      "question_type": "short_answer",
+      "total_marks": 3,
+      "model_answer": "Photosynthesis is the process by which green plants make food using sunlight, water, and carbon dioxide.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Plants make food", "marks": 1 },
+          { "point": "Uses sunlight", "marks": 1 },
+          { "point": "Uses water or carbon dioxide", "marks": 1 }
+        ],
+        "grading_rules": ["Award marks for correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_text": "Name one product of photosynthesis.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Food (glucose).",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Food or oxygen", "marks": 1 }
+        ],
+        "grading_rules": ["Accept glucose or oxygen"]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question_text": "Name two parts of a plant.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Root and stem.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Root", "marks": 1 },
+          { "point": "Stem", "marks": 1 }
+        ],
+        "grading_rules": ["Any two correct plant parts earn full marks"]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question_text": "What is the function of roots?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Roots anchor the plant and absorb water and mineral salts.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Anchors the plant", "marks": 1 },
+          { "point": "Absorbs water and minerals", "marks": 1 }
+        ],
+        "grading_rules": ["Award marks separately"]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question_text": "Which part of a plant carries out photosynthesis?",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Leaves.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Leaves", "marks": 1 }
+        ],
+        "grading_rules": ["Answer must clearly indicate leaves"]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question_text": "Name the green substance found in leaves.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Chlorophyll.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Chlorophyll", "marks": 1 }
+        ],
+        "grading_rules": ["Spelling errors allowed if meaning is clear"]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question_text": "State one importance of plants to humans.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Plants provide food.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Provide food", "marks": 1 }
+        ],
+        "grading_rules": ["Accept oxygen, medicine, shelter"]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question_text": "What is germination?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Germination is the process by which a seed grows into a new plant.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Seed grows", "marks": 1 },
+          { "point": "Develops into a plant", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question_text": "Name one condition necessary for germination.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Water.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Water / air / warmth", "marks": 1 }
+        ],
+        "grading_rules": ["Any one condition accepted"]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question_text": "What is a habitat?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A habitat is the natural home of an organism.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Natural home", "marks": 1 },
+          { "point": "Where an organism lives", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question_text": "Give one example of a habitat.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Forest.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct habitat example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept forest, lake, desert, grassland"]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question_text": "Name one living thing found in water.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Fish.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Aquatic living thing", "marks": 1 }
+        ],
+        "grading_rules": ["Accept fish, frog, algae"]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question_text": "What is reproduction?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Reproduction is the process by which living things produce young ones.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Producing young ones", "marks": 2 }
+        ],
+        "grading_rules": ["Full marks for correct definition"]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question_text": "Name one way plants reproduce.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "By seeds.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Seeds or vegetative reproduction", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct method"]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question_text": "What is an insect?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "An insect is an animal with three body parts and six legs.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Three body parts", "marks": 1 },
+          { "point": "Six legs", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct description"]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question_text": "Give one example of an insect.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Grasshopper.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct insect example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept any valid insect"]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question_text": "State one difference between plants and animals.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Plants make their own food while animals cannot.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Plants make food", "marks": 1 },
+          { "point": "Animals depend on others", "marks": 1 }
+        ],
+        "grading_rules": ["Accept any correct difference"]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question_text": "What is a food chain?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A food chain shows how food energy passes from one organism to another.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Shows feeding relationship", "marks": 1 },
+          { "point": "Transfer of energy", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question_text": "Name the first organism in a food chain.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Green plants.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Green plants / producers", "marks": 1 }
+        ],
+        "grading_rules": ["Producers accepted"]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question_text": "What is an herbivore?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "An herbivore is an animal that feeds on plants.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Animal", "marks": 1 },
+          { "point": "Feeds on plants", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question_text": "Give one example of a herbivore.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Cow.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct herbivore example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept goat, sheep, rabbit"]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question_text": "Why are green plants called producers?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Because they make their own food.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Make their own food", "marks": 2 }
+        ],
+        "grading_rules": ["Full marks for clear reason"]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question_text": "What is an omnivore?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "An omnivore is an animal that feeds on both plants and animals.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Feeds on plants", "marks": 1 },
+          { "point": "Feeds on animals", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question_text": "Give one example of an omnivore.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Human being.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct omnivore example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept pig, chicken"]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question_text": "What is a carnivore?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A carnivore is an animal that feeds on other animals.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Animal", "marks": 1 },
+          { "point": "Feeds on animals", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question_text": "Give one example of a carnivore.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Lion.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct carnivore example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept leopard, tiger"]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question_text": "State one importance of animals to humans.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Animals provide food.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Provide food or transport or security", "marks": 1 }
+        ],
+        "grading_rules": ["Accept any correct importance"]
+      }
+    }
+  ]
+}

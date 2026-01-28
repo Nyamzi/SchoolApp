@@ -1,0 +1,412 @@
+{
+  "paper_id": "P6_SCI_PAPER_02",
+  "level": "Primary 6",
+  "subject": "Integrated Science",
+  "syllabus": "Ugandan Primary Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_text": "Name two sense organs.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Eyes and ears.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct sense organ 1", "marks": 1 },
+          { "point": "Correct sense organ 2", "marks": 1 }
+        ],
+        "grading_rules": ["Accept eyes, ears, nose, tongue, skin"]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_text": "What is digestion?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Digestion is the process of breaking down food into simpler substances that can be absorbed by the body.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Breaking down food", "marks": 1 },
+          { "point": "Into simpler substances", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_text": "Name the organ used for breathing.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Lungs.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Lungs", "marks": 1 }
+        ],
+        "grading_rules": ["Answer must clearly indicate lungs"]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_text": "State one function of the heart.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "The heart pumps blood around the body.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Pumps blood", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct function"]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_text": "Name two parts of the digestive system.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Mouth and stomach.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct digestive organ 1", "marks": 1 },
+          { "point": "Correct digestive organ 2", "marks": 1 }
+        ],
+        "grading_rules": ["Accept mouth, oesophagus, stomach, intestines"]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question_text": "What is respiration?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Respiration is the process of releasing energy from food in the body.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Releasing energy", "marks": 1 },
+          { "point": "From food", "marks": 1 }
+        ],
+        "grading_rules": ["Do not confuse with breathing"]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question_text": "Name the gas used during breathing.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Oxygen.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Oxygen", "marks": 1 }
+        ],
+        "grading_rules": ["Spelling errors allowed"]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question_text": "Which gas is breathed out by humans?",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Carbon dioxide.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Carbon dioxide", "marks": 1 }
+        ],
+        "grading_rules": ["Accept CO2"]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question_text": "Name one disease caused by poor hygiene.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Cholera.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct hygiene-related disease", "marks": 1 }
+        ],
+        "grading_rules": ["Accept cholera, diarrhoea, typhoid"]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question_text": "State one way of preventing diseases.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Washing hands with soap.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Good hygiene practice", "marks": 1 }
+        ],
+        "grading_rules": ["Accept vaccination, clean water"]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question_text": "What is blood?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Blood is a liquid that transports substances in the body.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Liquid", "marks": 1 },
+          { "point": "Transports substances", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question_text": "Name one function of blood.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Blood transports oxygen.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Transport function", "marks": 1 }
+        ],
+        "grading_rules": ["Accept nutrients, waste removal"]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question_text": "What is a balanced diet?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A balanced diet is one that contains all food nutrients in the correct proportions.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "All nutrients", "marks": 1 },
+          { "point": "Correct proportions", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question_text": "Name one nutrient found in food.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Proteins.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct nutrient", "marks": 1 }
+        ],
+        "grading_rules": ["Accept carbohydrates, fats, vitamins, minerals"]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question_text": "What is the function of proteins?",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Proteins help in body growth and repair.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Growth and repair", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct function"]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question_text": "Name one energy-giving food.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Posho.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Carbohydrate food", "marks": 1 }
+        ],
+        "grading_rules": ["Accept rice, cassava, bread"]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question_text": "Why is water important in the body?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Water helps digestion and regulates body temperature.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Helps digestion", "marks": 1 },
+          { "point": "Regulates temperature", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct roles"]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question_text": "What is hygiene?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Hygiene is the practice of keeping the body clean to prevent diseases.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Keeping clean", "marks": 1 },
+          { "point": "Preventing disease", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question_text": "Name one way of keeping the body clean.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Bathing regularly.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct hygiene practice", "marks": 1 }
+        ],
+        "grading_rules": ["Accept brushing teeth, washing hands"]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question_text": "What is first aid?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "First aid is the immediate care given to an injured or sick person before medical help arrives.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Immediate care", "marks": 1 },
+          { "point": "Before medical help", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question_text": "Name one item found in a first aid kit.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Bandage.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct first aid item", "marks": 1 }
+        ],
+        "grading_rules": ["Accept cotton, antiseptic"]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question_text": "What causes malaria?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Malaria is caused by parasites transmitted through mosquito bites.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Mosquito bites", "marks": 1 },
+          { "point": "Parasites", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question_text": "State one way of preventing malaria.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Sleeping under a mosquito net.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Use of mosquito net", "marks": 1 }
+        ],
+        "grading_rules": ["Accept spraying, draining stagnant water"]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question_text": "What is exercise?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Exercise is physical activity done to keep the body healthy.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Physical activity", "marks": 1 },
+          { "point": "Keeps body healthy", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question_text": "State one importance of exercise.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Exercise keeps the body fit.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Keeps body fit", "marks": 1 }
+        ],
+        "grading_rules": ["Accept strengthens muscles"]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question_text": "What is rest?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Rest is the act of relaxing the body to regain energy.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Relaxing body", "marks": 1 },
+          { "point": "Regaining energy", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question_text": "Why is rest important to the body?",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Rest helps the body regain energy.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Regains energy", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct reason"]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question_text": "Name one bad habit that affects health.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Smoking.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Harmful habit", "marks": 1 }
+        ],
+        "grading_rules": ["Accept alcohol abuse, drug abuse"]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question_text": "What is a disease?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A disease is a condition that affects the normal functioning of the body.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Affects body", "marks": 1 },
+          { "point": "Interferes with normal functioning", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question_text": "State one way diseases can spread.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Through contaminated water.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct mode of spread", "marks": 1 }
+        ],
+        "grading_rules": ["Accept air, contact, food"]
+      }
+    }
+  ]
+}

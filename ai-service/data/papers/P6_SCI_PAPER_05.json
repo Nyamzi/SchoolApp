@@ -1,0 +1,412 @@
+{
+  "paper_id": "P6_SCI_PAPER_05",
+  "level": "Primary 6",
+  "subject": "Integrated Science",
+  "syllabus": "Ugandan Primary Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_text": "What is soil?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Soil is the top layer of the earth where plants grow.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Top layer of the earth", "marks": 1 },
+          { "point": "Supports plant growth", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_text": "Name the three main types of soil.",
+      "question_type": "short_answer",
+      "total_marks": 3,
+      "model_answer": "Sandy soil, clay soil, and loam soil.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Sandy soil", "marks": 1 },
+          { "point": "Clay soil", "marks": 1 },
+          { "point": "Loam soil", "marks": 1 }
+        ],
+        "grading_rules": ["All three required for full marks"]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_text": "Give one characteristic of sandy soil.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Sandy soil drains water quickly.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Drains water quickly", "marks": 1 }
+        ],
+        "grading_rules": ["Accept loose particles"]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_text": "State one use of clay soil.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Making bricks.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Brick or pottery making", "marks": 1 }
+        ],
+        "grading_rules": ["Accept pots"]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_text": "Why is loam soil good for farming?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Loam soil holds water and nutrients and drains well.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Holds nutrients or water", "marks": 1 },
+          { "point": "Good drainage", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question_text": "What is soil erosion?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Soil erosion is the washing away of top soil by wind or water.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Washing away of soil", "marks": 1 },
+          { "point": "By wind or water", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question_text": "Name one cause of soil erosion.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Heavy rainfall.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct cause", "marks": 1 }
+        ],
+        "grading_rules": ["Accept deforestation, overgrazing"]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question_text": "State one way of controlling soil erosion.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Planting trees.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct control method", "marks": 1 }
+        ],
+        "grading_rules": ["Accept terracing"]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question_text": "What is a rock?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A rock is a hard natural substance found on the earth.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Natural substance", "marks": 1 },
+          { "point": "Hard / found on earth", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question_text": "Name one type of rock.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Igneous rock.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct rock type", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sedimentary, metamorphic"]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question_text": "State one use of rocks.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Building houses.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Construction use", "marks": 1 }
+        ],
+        "grading_rules": ["Accept road construction"]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question_text": "What is an environment?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "An environment is the surrounding where living and non-living things exist.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Surroundings", "marks": 1 },
+          { "point": "Living and non-living things", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question_text": "Name one living thing in the environment.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Plants.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Living organism", "marks": 1 }
+        ],
+        "grading_rules": ["Accept animals, humans"]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question_text": "Name one non-living thing in the environment.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Water.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Non-living component", "marks": 1 }
+        ],
+        "grading_rules": ["Accept air, soil"]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question_text": "What is environmental conservation?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Environmental conservation is the protection of the environment from damage.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Protection of environment", "marks": 2 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question_text": "State one importance of environmental conservation.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "It protects natural resources.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Protects resources", "marks": 1 }
+        ],
+        "grading_rules": ["Accept supports life"]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question_text": "Name one way of conserving the environment.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Planting trees.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Conservation method", "marks": 1 }
+        ],
+        "grading_rules": ["Accept recycling"]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question_text": "What is deforestation?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Deforestation is the cutting down of trees without replacement.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Cutting down trees", "marks": 1 },
+          { "point": "No replacement", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question_text": "State one effect of deforestation.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Soil erosion.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Negative effect", "marks": 1 }
+        ],
+        "grading_rules": ["Accept climate change"]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question_text": "What is waste?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Waste is unwanted or useless materials.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Unwanted materials", "marks": 2 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question_text": "Name one type of waste.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Plastic waste.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct waste type", "marks": 1 }
+        ],
+        "grading_rules": ["Accept organic waste"]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question_text": "State one way of managing waste.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Recycling.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Waste management method", "marks": 1 }
+        ],
+        "grading_rules": ["Accept reuse, composting"]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question_text": "What is pollution?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Pollution is the contamination of the environment by harmful substances.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Contamination", "marks": 1 },
+          { "point": "Harmful substances", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question_text": "Name one type of pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Water pollution.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct pollution type", "marks": 1 }
+        ],
+        "grading_rules": ["Accept air, land"]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question_text": "State one effect of pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "It causes diseases.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Health or environmental effect", "marks": 1 }
+        ],
+        "grading_rules": ["Accept death of organisms"]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question_text": "What is recycling?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Recycling is the process of converting waste into reusable materials.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Converting waste", "marks": 1 },
+          { "point": "Reusable materials", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question_text": "Name one recyclable material.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Plastic.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Recyclable material", "marks": 1 }
+        ],
+        "grading_rules": ["Accept paper, glass"]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question_text": "What is climate change?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Climate change is a long-term change in weather patterns.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Long-term change", "marks": 1 },
+          { "point": "Weather patterns", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question_text": "State one cause of climate change.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Deforestation.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct cause", "marks": 1 }
+        ],
+        "grading_rules": ["Accept pollution"]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question_text": "State one effect of climate change.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Drought.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct effect", "marks": 1 }
+        ],
+        "grading_rules": ["Accept floods"]
+      }
+    }
+  ]
+}
+
+</user_query>"}~/OneDrive/Desktop/WORK-APPLICATION/School_Management

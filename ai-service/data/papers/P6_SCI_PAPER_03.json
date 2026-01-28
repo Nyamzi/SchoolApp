@@ -1,0 +1,411 @@
+{
+  "paper_id": "P6_SCI_PAPER_03",
+  "level": "Primary 6",
+  "subject": "Integrated Science",
+  "syllabus": "Ugandan Primary Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_text": "What is matter?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Matter is anything that has mass and occupies space.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Has mass", "marks": 1 },
+          { "point": "Occupies space", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_text": "Name the three states of matter.",
+      "question_type": "short_answer",
+      "total_marks": 3,
+      "model_answer": "Solid, liquid, and gas.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Solid", "marks": 1 },
+          { "point": "Liquid", "marks": 1 },
+          { "point": "Gas", "marks": 1 }
+        ],
+        "grading_rules": ["All three states required for full marks"]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_text": "Give one example of a solid.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Stone.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct solid example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept any solid"]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_text": "What happens when ice melts?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Ice changes from a solid into a liquid.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Changes state", "marks": 1 },
+          { "point": "Solid to liquid", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_text": "Name one example of a liquid.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Water.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct liquid example", "marks": 1 }
+        ],
+        "grading_rules": ["Accept milk, oil"]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question_text": "What is evaporation?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Evaporation is the change of a liquid into a gas.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Change of state", "marks": 1 },
+          { "point": "Liquid to gas", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question_text": "Name one factor that affects evaporation.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Heat.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Heat / wind / surface area", "marks": 1 }
+        ],
+        "grading_rules": ["Any one factor accepted"]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question_text": "What is condensation?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Condensation is the change of a gas into a liquid.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Change of state", "marks": 1 },
+          { "point": "Gas to liquid", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question_text": "What is freezing?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Freezing is the change of a liquid into a solid.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Liquid to solid", "marks": 2 }
+        ],
+        "grading_rules": ["Full marks for correct definition"]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question_text": "Name one use of water at home.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Drinking.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct use of water", "marks": 1 }
+        ],
+        "grading_rules": ["Accept cooking, washing"]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question_text": "State one source of water.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Rain.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct water source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept river, lake, spring"]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question_text": "What is water pollution?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Water pollution is the contamination of water by harmful substances.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Contamination of water", "marks": 1 },
+          { "point": "Harmful substances", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question_text": "Name one cause of water pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Dumping waste in water.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct pollution cause", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sewage, oil spills"]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question_text": "State one way of preventing water pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Proper waste disposal.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Preventive action", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sewage treatment"]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question_text": "What is air?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Air is a mixture of gases surrounding the earth.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Mixture of gases", "marks": 1 },
+          { "point": "Surrounds the earth", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question_text": "Name one gas found in air.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Oxygen.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct gas", "marks": 1 }
+        ],
+        "grading_rules": ["Accept nitrogen, carbon dioxide"]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question_text": "Why is oxygen important to living things?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Oxygen is needed for respiration.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Needed for respiration", "marks": 2 }
+        ],
+        "grading_rules": ["Full marks for correct reason"]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question_text": "What is air pollution?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Air pollution is the contamination of air by harmful substances.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Contamination of air", "marks": 1 },
+          { "point": "Harmful substances", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question_text": "Name one cause of air pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Vehicle exhaust fumes.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct cause", "marks": 1 }
+        ],
+        "grading_rules": ["Accept factory smoke"]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question_text": "State one effect of air pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Causes breathing problems.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Health problem", "marks": 1 }
+        ],
+        "grading_rules": ["Accept environmental effects"]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question_text": "What is wind?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Wind is moving air.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Moving air", "marks": 2 }
+        ],
+        "grading_rules": ["Full marks for correct definition"]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question_text": "Name one use of wind.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Drying clothes.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct use of wind", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sailing, wind energy"]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question_text": "What is weather?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Weather is the condition of the atmosphere at a particular place and time.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Condition of atmosphere", "marks": 1 },
+          { "point": "At a particular time and place", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question_text": "Name one weather element.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Rainfall.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct weather element", "marks": 1 }
+        ],
+        "grading_rules": ["Accept temperature, wind"]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question_text": "What instrument is used to measure rainfall?",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Rain gauge.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Rain gauge", "marks": 1 }
+        ],
+        "grading_rules": ["Spelling errors allowed"]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question_text": "What is a cloud?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A cloud is a collection of tiny water droplets in the sky.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Water droplets", "marks": 1 },
+          { "point": "In the sky", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question_text": "Name one type of cloud.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Cumulus.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct cloud type", "marks": 1 }
+        ],
+        "grading_rules": ["Accept cirrus, stratus"]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question_text": "What is rain?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Rain is water that falls from clouds to the earth.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Water falling", "marks": 1 },
+          { "point": "From clouds", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question_text": "State one importance of rain.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Rain supports crop growth.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Supports agriculture", "marks": 1 }
+        ],
+        "grading_rules": ["Accept water supply"]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question_text": "State one danger of too much rain.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Flooding.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Flooding or destruction", "marks": 1 }
+        ],
+        "grading_rules": ["Accept soil erosion"]
+      }
+    }
+  ]
+}

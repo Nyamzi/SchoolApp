@@ -1,0 +1,408 @@
+{
+  "paper_id": "P6_SCI_PAPER_04",
+  "level": "Primary 6",
+  "subject": "Integrated Science",
+  "syllabus": "Ugandan Primary Science",
+  "total_questions": 30,
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question_text": "What is energy?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Energy is the ability to do work.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Ability to do work", "marks": 2 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question_text": "Name two forms of energy.",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Heat and light energy.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct energy form 1", "marks": 1 },
+          { "point": "Correct energy form 2", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sound, electrical, chemical"]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question_text": "State one source of energy.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "The sun.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct energy source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept firewood, fuel"]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question_text": "What is heat?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Heat is a form of energy that makes things warm.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Form of energy", "marks": 1 },
+          { "point": "Makes things warm", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question_text": "Name one source of heat.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Fire.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct heat source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept sun, electricity"]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question_text": "What is temperature?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Temperature is the measure of how hot or cold something is.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Measure of heat", "marks": 1 },
+          { "point": "Hot or cold", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question_text": "Name the instrument used to measure temperature.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Thermometer.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Thermometer", "marks": 1 }
+        ],
+        "grading_rules": ["Spelling errors allowed"]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question_text": "What happens to solids when heated?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Solids expand when heated.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Expansion", "marks": 2 }
+        ],
+        "grading_rules": ["Accept correct effect"]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question_text": "Name one effect of heat.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Melting.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct effect", "marks": 1 }
+        ],
+        "grading_rules": ["Accept expansion, evaporation"]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question_text": "What is light?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Light is a form of energy that enables us to see.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Form of energy", "marks": 1 },
+          { "point": "Enables seeing", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question_text": "Name one source of light.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "The sun.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct light source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept torch, candle"]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question_text": "What happens when light hits a mirror?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Light is reflected.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Reflection", "marks": 2 }
+        ],
+        "grading_rules": ["Accept correct response"]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question_text": "What is reflection of light?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Reflection is the bouncing back of light from a surface.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Bouncing back", "marks": 1 },
+          { "point": "From a surface", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question_text": "Name one object that reflects light well.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Mirror.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Mirror or shiny surface", "marks": 1 }
+        ],
+        "grading_rules": ["Accept metal, water surface"]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question_text": "What is a shadow?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A shadow is a dark area formed when light is blocked.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Light is blocked", "marks": 1 },
+          { "point": "Dark area formed", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question_text": "Name one condition necessary for forming a shadow.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Presence of light.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Light source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept opaque object"]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question_text": "What is sound?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Sound is a form of energy produced by vibrating objects.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Form of energy", "marks": 1 },
+          { "point": "Produced by vibration", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question_text": "Name one source of sound.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Drum.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct sound source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept radio, bell"]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question_text": "How is sound produced?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Sound is produced by vibrating objects.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Vibration", "marks": 2 }
+        ],
+        "grading_rules": ["Full marks for correct explanation"]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question_text": "Name one effect of sound.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Communication.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Communication or disturbance", "marks": 1 }
+        ],
+        "grading_rules": ["Accept noise"]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question_text": "What is noise?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Noise is an unpleasant or unwanted sound.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Unpleasant sound", "marks": 2 }
+        ],
+        "grading_rules": ["Accept correct definition"]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question_text": "Name one source of noise.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Vehicles.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct noise source", "marks": 1 }
+        ],
+        "grading_rules": ["Accept machinery, loud music"]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question_text": "State one effect of noise pollution.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Hearing problems.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Health effect", "marks": 1 }
+        ],
+        "grading_rules": ["Accept stress"]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question_text": "What is electricity?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "Electricity is a form of energy used to power devices.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Form of energy", "marks": 1 },
+          { "point": "Powers devices", "marks": 1 }
+        ],
+        "grading_rules": ["Accept correct meaning"]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question_text": "Name one use of electricity.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Lighting.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct use", "marks": 1 }
+        ],
+        "grading_rules": ["Accept cooking, heating"]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question_text": "Name one danger of electricity.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Electric shock.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Electric shock", "marks": 1 }
+        ],
+        "grading_rules": ["Accept fire"]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question_text": "State one safety rule when using electricity.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Do not touch electrical appliances with wet hands.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct safety rule", "marks": 1 }
+        ],
+        "grading_rules": ["Accept unplugging appliances"]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question_text": "What is a magnet?",
+      "question_type": "short_answer",
+      "total_marks": 2,
+      "model_answer": "A magnet is an object that attracts magnetic materials.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Attracts materials", "marks": 1 },
+          { "point": "Magnetic materials", "marks": 1 }
+        ],
+        "grading_rules": ["Accept iron, steel"]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question_text": "Name one magnetic material.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Iron.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Iron or steel", "marks": 1 }
+        ],
+        "grading_rules": ["Spelling errors allowed"]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question_text": "State one use of magnets.",
+      "question_type": "short_answer",
+      "total_marks": 1,
+      "model_answer": "Picking up iron objects.",
+      "marking_rubric": {
+        "key_points": [
+          { "point": "Correct use", "marks": 1 }
+        ],
+        "grading_rules": ["Accept electric motors"]
+      }
+    }
+  ]
+}
