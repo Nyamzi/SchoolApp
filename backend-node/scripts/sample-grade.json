@@ -1,0 +1,18 @@
+{
+  "question_text": "Explain two effects of soil erosion on agriculture.",
+  "model_answer": "Soil erosion removes topsoil, reducing soil fertility and crop yields. It can also lead to siltation of waterways and loss of arable land, which makes farming harder and can reduce available farmland.",
+  "key_points": [
+    "loss of topsoil",
+    "reduced soil fertility",
+    "lower crop yields",
+    "siltation of waterways",
+    "loss of arable land"
+  ],
+  "rubric": {
+    "5": "Explains two effects clearly with detail",
+    "3": "Mentions two effects with limited detail",
+    "1": "Mentions one effect or vague answer"
+  },
+  "total_marks": 5,
+  "student_answer": "Erosion removes the topsoil so crops do not grow well. It also washes soil into rivers which can block them."
+}
