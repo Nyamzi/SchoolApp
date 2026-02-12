@@ -3,24 +3,30 @@ import { Link } from 'react-router-dom'
 export default function Landing() {
   return (
     <div className="landing">
+      <div className="landing-background">
+        <div className="landing-bg-slide landing-bg-one" />
+        <div className="landing-bg-slide landing-bg-two" />
+      </div>
       <header className="landing-hero">
-        <div className="landing-badge">AI School Management</div>
-        <h1>Grade faster, keep teachers in control.</h1>
-        <p>
-          A modern platform for AI-assisted grading with human approval, audit trails, and role-based dashboards for
-          admins, teachers, and students.
-        </p>
-        <div className="landing-actions">
-          <Link className="primary-link" to="/signup">
-            Create an Account
-          </Link>
-          <Link className="secondary-link" to="/login">
-            Sign In
-          </Link>
+        <div className="landing-copy">
+          <div className="landing-badge">AI School Management</div>
+          <h1>Grade faster, keep teachers in control.</h1>
+          <p>
+            A modern platform for AI-assisted grading with human approval, audit trails, and role-based dashboards for
+            admins, teachers, and students.
+          </p>
+          <div className="landing-actions">
+            <Link className="primary-link" to="/signup">
+              Create an Account
+            </Link>
+            <Link className="secondary-link" to="/login">
+              Sign In
+            </Link>
+          </div>
         </div>
       </header>
 
-      <section className="landing-section">
+      <section className="landing-section landing-media">
         <h2>Why schools choose this system</h2>
         <div className="landing-grid">
           <div className="landing-card">

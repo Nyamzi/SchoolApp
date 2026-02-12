@@ -220,11 +220,65 @@ button.success {
   min-height: 100vh;
   padding: 48px 24px 80px;
   background: radial-gradient(circle at top, #dbeafe, #f8fafc 55%);
+  position: relative;
+  overflow: hidden;
+}
+
+.landing-background {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.landing-bg-slide {
+  position: absolute;
+  inset: 0;
+  background-size: 80% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  animation: landingFade 14s infinite;
+  transform: scale(1.03);
+}
+
+.landing-bg-one {
+  background-image: url("../assets/school.jpg");
+  animation-delay: 0s;
+}
+
+.landing-bg-two {
+  background-image: url("../assets/school2.jpg");
+  animation-delay: 7s;
+}
+
+@keyframes landingFade {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.3;
+  }
+  40% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 
 .landing-hero {
   max-width: 900px;
   margin: 0 auto 48px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.landing-copy {
   text-align: center;
 }
 
@@ -250,9 +304,20 @@ button.success {
   margin: 0 auto 24px;
 }
 
+.landing-copy p {
+  margin: 0 0 24px;
+}
+
 .landing-section {
   max-width: 1000px;
   margin: 0 auto 40px;
+  position: relative;
+  z-index: 1;
+}
+
+.landing-media {
+  display: grid;
+  gap: 20px;
 }
 
 .landing-section h2 {
@@ -319,6 +384,8 @@ button.success {
   padding: 32px;
   border-radius: 18px;
   box-shadow: 0 16px 36px rgba(15, 23, 42, 0.12);
+  position: relative;
+  z-index: 1;
 }
 
 .primary-link,
@@ -352,5 +419,13 @@ button.success {
   .nav-links {
     flex-direction: row;
     flex-wrap: wrap;
+  }
+
+  .landing-copy {
+    text-align: center;
+  }
+
+  .landing-actions {
+    justify-content: center;
   }
 }
